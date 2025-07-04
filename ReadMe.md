@@ -3,7 +3,7 @@
 Sistema completo para cotação e contratação de seguro internacional, desenvolvido para a plataforma Verlaz. O sistema oferece validação de países e NCMs, integração com Frete Intelligence e gestão completa do processo de seguro.
 
 ## 🌐 **Demo Online**
-**URL:** https://xyvfvtyo.manus.space
+**URL:** [https://xyvfvtyo.manus.space](https://ykigyqbu.manus.space/#)
 
 ## 📋 **Funcionalidades Principais**
 
